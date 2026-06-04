@@ -111,4 +111,36 @@ Features:
 * Insufficient Balance Handling
 * Remaining Balance Calculation
 
+# Day 4 – Loops and Pattern Programming
+
+## Topics Covered
+
+* For Loop
+* While Loop
+* Nested Loops
+* Loop Control Statements
+
+## Programs Completed
+
+### Basic Loop Programs
+
+* Print numbers from 1 to 100
+* Multiplication Table
+* Factorial of a Number
+
+### Star Patterns
+
+* Square Pattern
+* Right Triangle Pattern
+* Pyramid Pattern
+
+### Number Patterns
+
+* Floyd's Triangle
+
+### Logic Building Programs
+
+* Prime Number Check
+* Fibonacci Series
+* Palindrome Number
 
