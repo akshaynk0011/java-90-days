@@ -144,3 +144,10 @@ Features:
 * Fibonacci Series
 * Palindrome Number
 
+  Day 5:
+- Learned methods, parameters, return values and scope
+- Created utility methods like max, min, factorial, gcd and prime check
+- Practiced method overloading using multiple add() methods
+- Learned recursion and call stack concepts
+- Implemented recursive factorial, fibonacci, sum of digits and reverse number programs
+
