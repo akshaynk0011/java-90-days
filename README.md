@@ -151,3 +151,46 @@ Features:
 - Learned recursion and call stack concepts
 - Implemented recursive factorial, fibonacci, sum of digits and reverse number programs
 
+# Day 6 – LeetCode Practice & Problem Solving
+
+## Topics Covered
+
+* Arrays
+* Strings
+* HashMap
+* Stack
+* Simulation
+* Number Manipulation
+
+## LeetCode Problems Solved
+
+### LC 1 – Two Sum
+
+* Used HashMap for efficient lookup.
+* Learned how to reduce time complexity from O(n²) to O(n).
+
+### LC 14 – Longest Common Prefix
+
+* Compared characters across multiple strings.
+* Practiced string traversal and comparison.
+
+### LC 20 – Valid Parentheses
+
+* Used Stack data structure.
+* Learned how LIFO (Last In First Out) helps in matching brackets.
+
+### LC 13 – Roman to Integer
+
+* Converted Roman numerals into integers.
+* Understood subtraction cases such as IV, IX, XL, XC, CD, and CM.
+
+### LC 6 – Zigzag Conversion
+
+* Simulated zigzag movement across rows.
+* Improved understanding of string manipulation.
+
+### LC 66 – Plus One
+
+* Worked with arrays and carry-forward logic.
+* Handled edge cases involving all 9s.
+
