@@ -194,3 +194,55 @@ Features:
 * Worked with arrays and carry-forward logic.
 * Handled edge cases involving all 9s.
 
+# Day 7 – Methods, Functions & Recursion
+
+## 📚 Topics Covered
+
+### Methods in Java
+
+* Method declaration and definition
+* Parameters and arguments
+* Return values
+* Method scope
+* Calling methods from `main()`
+
+### Method Overloading
+
+* Creating multiple methods with the same name
+* Different parameter lists
+* Compile-time polymorphism
+
+### Recursion Introduction
+
+* Understanding recursive calls
+* Base case and recursive case
+* Call stack visualization
+* Difference between iteration and recursion
+
+## 💻 Programs Implemented
+
+### Methods Practice
+
+* Maximum of two numbers
+* Minimum of two numbers
+* Prime number check
+* Factorial using method
+* GCD (Greatest Common Divisor)
+
+### Method Overloading
+
+Implemented multiple versions of:
+
+```java
+add(int a, int b)
+add(int a, int b, int c)
+add(double a, double b)
+```
+
+### Recursion Programs
+
+* Factorial using recursion
+* Fibonacci series using recursion
+* Sum of first N natural numbers
+
+
