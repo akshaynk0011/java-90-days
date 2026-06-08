@@ -244,5 +244,34 @@ add(double a, double b)
 * Factorial using recursion
 * Fibonacci series using recursion
 * Sum of first N natural numbers
+* 
+# Day 8 – LeetCode Practice & String Manipulation
+
+## 📚 Topics Covered
+
+* Strings
+* Arrays
+* Linked Lists
+* Stack
+* HashMap
+* Problem Solving
+
+## ✅ LeetCode Problems Solved
+
+### LC 58 – Length of Last Word
+
+* Traversed a string from the end.
+* Learned how to handle trailing spaces efficiently.
+* Practiced string manipulation and edge-case handling.
+
+### Revision of Previous Problems
+
+* LC 1 – Two Sum
+* LC 13 – Roman to Integer
+* LC 14 – Longest Common Prefix
+* LC 20 – Valid Parentheses
+* LC 21 – Merge Two Sorted Lists
+* LC 66 – Plus One
+
 
 
