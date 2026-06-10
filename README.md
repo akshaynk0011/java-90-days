@@ -273,7 +273,7 @@ add(double a, double b)
 * LC 21 – Merge Two Sorted Lists
 * LC 66 – Plus One
 
-📅 Day 9 of 90 Days of Java
+📅 Day 9 
 
 Today I learned the fundamentals of Binary Search, one of the most important searching algorithms used in programming and technical interviews.
 
@@ -281,6 +281,7 @@ Today I learned the fundamentals of Binary Search, one of the most important sea
 What is Binary Search?
 Difference between Linear Search and Binary Search
 Time Complexity: O(log n)
+
 Finding an element in a sorted array
 Understanding low, high, and mid pointers
 Handling edge cases
