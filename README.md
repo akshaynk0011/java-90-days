@@ -286,8 +286,9 @@ Finding an element in a sorted array
 Understanding low, high, and mid pointers
 Handling edge cases
 💻 Problems Solved
+
 ✅ LeetCode 35 – Search Insert Position
 Used Binary Search to find the target element.
 If the target is not present, returned the position where it should be inserted.
-Improved understanding of efficient searching techniques.
+Improved understanding of efficient searching techniques
 
