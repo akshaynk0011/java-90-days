@@ -277,16 +277,6 @@ add(double a, double b)
 
 Today I learned the fundamentals of Binary Search, one of the most important searching algorithms used in programming and technical interviews.
 
-📚 Topics Covered
-What is Binary Search?
-Difference between Linear Search and Binary Search
-Time Complexity: O(log n)
-
-Finding an element in a sorted array
-Understanding low, high, and mid pointers
-Handling edge cases
-💻 Problems Solved
-
 ✅ LeetCode 35 – Search Insert Position
 Used Binary Search to find the target element.
 If the target is not present, returned the position where it should be inserted.
