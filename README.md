@@ -273,12 +273,5 @@ add(double a, double b)
 * LC 21 – Merge Two Sorted Lists
 * LC 66 – Plus One
 
-📅 Day 9 
 
-Today I learned the fundamentals of Binary Search, one of the most important searching algorithms used in programming and technical interviews.
-
-✅ LeetCode 35 – Search Insert Position
-Used Binary Search to find the target element.
-If the target is not present, returned the position where it should be inserted.
-Improved understanding of efficient searching techniques
 
