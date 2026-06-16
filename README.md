@@ -272,7 +272,37 @@ add(double a, double b)
 * LC 20 – Valid Parentheses
 * LC 21 – Merge Two Sorted Lists
 * LC 66 – Plus One
+# Java Strings - Week 1 Practice
 
+This repository contains Java String programs and exercises completed during Week 1 of my Java learning journey.
+
+## Topics Covered
+
+- String Immutability
+- String Pool
+- String Methods
+- StringBuilder
+- Palindrome Check
+- String Reversal
+- Vowel Counting
+- Anagram Check
+
+## Programs
+
+1. Reverse String
+2. Palindrome Check
+3. Count Vowels
+4. Count Consonants
+5. Count Words
+6. Character Frequency
+7. Remove Spaces
+8. Change Case
+9. Duplicate Characters
+10. Anagram Check
+
+## Week 1 Test
+
+Completed 5 Java String programs within 90 minutes without tutorials.
 
 
 
