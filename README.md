@@ -305,5 +305,88 @@ This repository contains Java String programs and exercises completed during Wee
 Completed 5 Java String programs within 90 minutes without tutorials.
 
 
+# Day 8 — OOP Part 1 🚀
+
+## 📌 Topics Covered
+- Introduction to Object-Oriented Programming (OOP)
+- 4 Pillars of OOP Overview
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Abstraction
+- Classes and Objects
+- Constructors
+- `this` Keyword
+- `static` Keyword
+- Getters and Setters
+
+---
+
+## 📚 Theory Learned
+
+### What is OOP?
+Object-Oriented Programming (OOP) is a programming paradigm that organizes code using objects and classes. It helps make programs more modular, reusable, and maintainable.
+
+### OOP Pillars
+- **Encapsulation** → Binding data and methods together.
+- **Inheritance** → Acquiring properties from another class.
+- **Polymorphism** → One interface, multiple implementations.
+- **Abstraction** → Hiding implementation details.
+
+### `this` Keyword
+Used to refer to the current object of a class.
+
+### `static` Keyword
+Belongs to the class rather than an individual object.
+
+---
+
+## 💻 Programs Built
+
+### 1. BankAccount Class
+- Deposit money
+- Withdraw money
+- Check account balance
+
+### 2. Student Class
+- Constructor implementation
+- Getters and Setters
+- Student information management
+
+### 3. Custom Classes Created
+- Car
+- Book
+- Phone
+- Employee
+- Laptop
+
+---
+
+## 🛠 Concepts Practiced
+- Creating classes and objects
+- Calling methods using objects
+- Using constructors
+- Initializing object data
+- Data encapsulation using getters/setters
+- Understanding object lifecycle
+
+---
+
+## 🎯 Key Takeaways
+- Classes are blueprints for objects.
+- Objects represent real-world entities.
+- Constructors initialize object data.
+- `this` helps distinguish instance variables from parameters.
+- `static` members are shared among all objects.
+
+---
+
+## ⏱ Time Spent
+- Theory: 1.5 Hours
+- Coding Practice: 2 Hours
+
+## ✅ Status
+Completed Day 8 of the Java 90 Days Challenge.
+
 
 
