@@ -300,11 +300,6 @@ This repository contains Java String programs and exercises completed during Wee
 9. Duplicate Characters
 10. Anagram Check
 
-## Week 1 Test
-
-Completed 5 Java String programs within 90 minutes without tutorials.
-
-
 # Day 8 — OOP Part 1 🚀
 
 ## 📌 Topics Covered
