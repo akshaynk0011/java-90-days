@@ -383,5 +383,71 @@ Belongs to the class rather than an individual object.
 ## ✅ Status
 Completed Day 8 of the Java 90 Days Challenge.
 
+# Day 10 – Strings Practice & Problem Solving
+
+## 📚 Topics Learned
+
+* String Basics
+* String Methods (`length()`, `charAt()`, `substring()`)
+* String Comparison
+* StringBuilder
+* Character Manipulation
+* String Traversal using Loops
+
+## 💻 Programs Practiced
+
+* Reverse a String
+* Palindrome Check
+* Count Vowels and Consonants
+* Count Words in a Sentence
+* Remove Spaces from String
+* Convert Lowercase to Uppercase
+* Find Frequency of Characters
+* Anagram Check
+
+## 🧩 LeetCode Solved
+
+### LeetCode 19 – Remove Nth Node From End of List
+
+**Concepts Used:**
+
+* Linked List
+* Traversal
+* Node Deletion
+
+### LeetCode 22 – Generate Parentheses
+
+**Concepts Used:**
+
+* Backtracking
+* Recursion
+* Decision Making
+
+## 🎯 Key Learnings
+
+* Strings are one of the most frequently asked topics in coding interviews.
+* StringBuilder is more efficient than String for modifications.
+* Backtracking helps generate all valid combinations.
+* Linked List problems improve pointer manipulation skills.
+
+## 📈 Progress Update
+
+✅ Java Fundamentals
+✅ Loops & Patterns
+✅ Methods & Recursion
+✅ Arrays & ArrayList
+✅ Strings Basics
+✅ OOP Part 1
+✅ LeetCode Practice Continues
+
+## 🚀 Next Goal
+
+* Master OOP Part 2 (Inheritance, Polymorphism, Abstraction, Interfaces)
+* Solve more Linked List and String problems
+* Continue daily GitHub commits and maintain consistency
+
+### Day 10 Status
+
+Another step forward in the Java + DSA journey. Focused on strengthening problem-solving skills through String manipulation, Linked Lists, and Backtracking problems while maintaining daily coding consistency.
 
 
