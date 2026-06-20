@@ -446,8 +446,5 @@ Completed Day 8 of the Java 90 Days Challenge.
 * Solve more Linked List and String problems
 * Continue daily GitHub commits and maintain consistency
 
-### Day 10 Status
-
-Another step forward in the Java + DSA journey. Focused on strengthening problem-solving skills through String manipulation, Linked Lists, and Backtracking problems while maintaining daily coding consistency.
 
 
