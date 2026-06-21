@@ -423,24 +423,7 @@ Completed Day 8 of the Java 90 Days Challenge.
 * Recursion
 * Decision Making
 
-## 🎯 Key Learnings
 
-* Strings are one of the most frequently asked topics in coding interviews.
-* StringBuilder is more efficient than String for modifications.
-* Backtracking helps generate all valid combinations.
-* Linked List problems improve pointer manipulation skills.
-
-## 📈 Progress Update
-
-✅ Java Fundamentals
-✅ Loops & Patterns
-✅ Methods & Recursion
-✅ Arrays & ArrayList
-✅ Strings Basics
-✅ OOP Part 1
-✅ LeetCode Practice Continues
-
-## 🚀 Next Goal
 
 * Master OOP Part 2 (Inheritance, Polymorphism, Abstraction, Interfaces)
 * Solve more Linked List and String problems
