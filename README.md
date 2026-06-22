@@ -425,9 +425,7 @@ Completed Day 8 of the Java 90 Days Challenge.
 
 
 
-* Master OOP Part 2 (Inheritance, Polymorphism, Abstraction, Interfaces)
-* Solve more Linked List and String problems
-* Continue daily GitHub commits and maintain consistency
+
 
 
 
