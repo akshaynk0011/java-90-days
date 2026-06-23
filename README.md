@@ -419,9 +419,6 @@ Completed Day 8 of the Java 90 Days Challenge.
 
 **Concepts Used:**
 
-* Backtracking
-* Recursion
-* Decision Making
 
 
 
