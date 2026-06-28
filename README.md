@@ -417,7 +417,7 @@ Completed Day 8 of the Java 90 Days Challenge.
 
 ### LeetCode 22 – Generate Parentheses
 
-**Concepts Used:**
+
 
 
 
