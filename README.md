@@ -415,7 +415,7 @@ Completed Day 8 of the Java 90 Days Challenge.
 * Traversal
 * Node Deletion
 
-### LeetCode 22 – Generate Parentheses
+###  22 – Generate Parentheses
 
 
 
