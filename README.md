@@ -407,7 +407,6 @@ Completed Day 8 of the Java 90 Days Challenge.
 
 ## 🧩 LeetCode Solved
 
-### LeetCode 19 – Remove Nth Node From End of List
 
 
 
