@@ -405,7 +405,6 @@ Completed Day 8 of the Java 90 Days Challenge.
 * Find Frequency of Characters
 * Anagram Check
 
-## 🧩 LeetCode Solved
 
 
 
