@@ -401,21 +401,4 @@ Completed Day 8 of the Java 90 Days Challenge.
 * Count Vowels and Consonants
 * Count Words in a Sentence
 * Remove Spaces from String
-* Convert Lowercase to Uppercase
-* Find Frequency of Characters
-* Anagram Check
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
