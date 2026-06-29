@@ -399,6 +399,5 @@ Completed Day 8 of the Java 90 Days Challenge.
 * Reverse a String
 * Palindrome Check
 * Count Vowels and Consonants
-* Count Words in a Sentence
-* Remove Spaces from String
+
   
