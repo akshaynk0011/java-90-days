@@ -329,5 +329,132 @@ Object-Oriented Programming (OOP) is a programming paradigm that organizes code 
 - **Abstraction** → Hiding implementation details.
 
  and Setters
+📅 Day 10 – Binary Search
 
+Problem: LeetCode 69 – Sqrt(x)
+
+Concepts Learned:
+
+Binary Search on answer
+Finding integer square root
+Avoiding overflow using long
+
+🎯 Key Takeaway: Binary Search can be used on a range of possible answers, not just arrays.
+
+📅 Day 11 – Binary Search
+
+Problem: LeetCode 374 – Guess Number Higher or Lower
+
+Concepts Learned:
+
+Basic Binary Search
+Adjusting low and high
+
+🎯 Key Takeaway: Eliminate half of the search space in every iteration.
+
+📅 Day 12 – Binary Search
+
+Problem: LeetCode 34 – Find First and Last Position of Element in Sorted Array
+
+Concepts Learned:
+
+Finding first occurrence
+Finding last occurrence
+Modified Binary Search
+
+🎯 Key Takeaway: Binary Search can be modified to find boundaries.
+
+📅 Day 13 – Binary Search
+
+Problem: LeetCode 153 – Find Minimum in Rotated Sorted Array
+
+Concepts Learned:
+
+Rotated sorted arrays
+Identifying the sorted half
+Binary Search optimization
+
+🎯 Key Takeaway: Even rotated arrays can be solved efficiently using Binary Search.
+
+📅 Day 14 – Binary Search
+
+Problem: LeetCode 33 – Search in Rotated Sorted Array
+
+Concepts Learned:
+
+Searching in rotated arrays
+Determining left/right sorted portions
+
+🎯 Key Takeaway: Always identify which half of the array is sorted.
+
+📅 Day 15 – Binary Search
+
+Problem: LeetCode 162 – Find Peak Element
+
+Concepts Learned:
+
+Binary Search without a fully sorted array
+Comparing neighboring elements
+
+🎯 Key Takeaway: Binary Search can work when a condition helps eliminate half the search space.
+
+📅 Day 16 – Arrays
+
+Problem: LeetCode 189 – Rotate Array
+
+Concepts Learned:
+
+Array reversal
+In-place modification
+Optimal O(n) approach
+
+🎯 Key Takeaway: Reversing parts of an array can simplify rotation problems.
+
+📅 Day 17 – Arrays
+
+Problem: LeetCode 238 – Product of Array Except Self
+
+Concepts Learned:
+
+Prefix product
+Suffix product
+Space optimization
+
+🎯 Key Takeaway: Prefix and suffix techniques help avoid nested loops.
+
+📅 Day 18 – Hashing
+
+Problem: LeetCode 1 – Two Sum
+
+Concepts Learned:
+
+HashMap
+Storing previously seen elements
+O(n) solution
+
+🎯 Key Takeaway: Hashing helps convert repeated searching into constant-time lookups.
+
+📅 Day 19 – Hashing
+
+Problem: LeetCode 128 – Longest Consecutive Sequence
+
+Concepts Learned:
+
+HashSet
+Finding the start of a sequence
+Avoiding unnecessary iterations
+
+🎯 Key Takeaway: HashSet provides efficient lookup for sequence-based problems.
+
+📅 Day 20 – Arrays + Hashing
+
+Problem: LeetCode 217 – Contains Duplicate
+
+Concepts Learned:
+
+HashSet
+Duplicate detection
+Time vs space tradeoff
+
+🎯 Key Takeaway: Extra space can often reduce time complexity significantly.
   
