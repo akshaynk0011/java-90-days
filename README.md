@@ -1,5 +1,4 @@
-# Java 90 Days Challenge 
-
+# Java 90 Days 
 
 # Day 1 – Java Basics
 
