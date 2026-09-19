@@ -2,7 +2,7 @@
 
 # Day 1 – Java Basics
 
-## Topics Learned
+Topics Learned
 
 * Java Installation and Setup
 * Structure of a Java Program
