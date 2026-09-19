@@ -25,7 +25,7 @@ Topics Learned
 10. Basic User Input Programs
 
 
-# Day 2 – Loops and Pattern Programs
+Day 2 – Loops and Pattern Programs
 
 ## Topics Learned
 
